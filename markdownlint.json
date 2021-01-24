@@ -1,0 +1,11 @@
+{
+  "no-duplicate-header": false,
+  "no-inline-html": {
+    "allowed_elements": [
+      "br",
+      "a",
+      "details",
+      "summary"
+    ]
+  }
+}
